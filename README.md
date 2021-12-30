@@ -2,11 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%3498db&size=45&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Bayu+Novaldi;Welcome+to+my+Github" alt="Title">
 </div>
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
+## <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="50px"></img> About Me
 <p align="center">
   <img align="center" alt="Bayu Novaldi | Gmail" height="300px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Animation.gif" />  
 <p> 
   
+- 🎓 I'm fresh graduate from Informatics Major at Institute Technology Sepuluh Nopember  
 - 🌱 I’m currently focus on Android Development as primary focus, and Web Development 
 - 💬 Ask me about Kotlin, Java and PHP
 
