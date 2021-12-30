@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%3498db&size=45&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Bayu+Novaldi;Welcome+to+my+Github" alt="Title">
 </div>
 
-## <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="50px"></img> About Me
+## <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="25px"></img> About Me
 <p align="center">
   <img align="center" alt="Bayu Novaldi | Gmail" height="300px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Animation.gif" />  
 <p> 
@@ -11,7 +11,7 @@
 - 🌱 I’m currently focus on Android Development as primary focus, and Web Development 
 - 💬 Ask me about Kotlin, Java and PHP
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> Some Languages and Tools
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-3498db?bstyle=flat&logo=Kotlin)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-3498db?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -25,7 +25,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-3498db?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3498db?style=flat&logo=android-studio)&nbsp;
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50px"> Github Analytics
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25px"> Github Analytics
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idlavoNuyaB&layout=compact&show_icon=true&theme=algolia" alt="idlavoNuyaB-langs"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=idlavoNuyaB&layout=compact&show_icon=true&theme=algolia&count_private=true&include_all_commits" alt="idlavoNuyaB-stats"/>
@@ -36,7 +36,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=idlavoNuyaB&theme=algolia&no-bg=true" />
 </div>
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Connect With Me
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px"> Connect With Me
 
 <p align="center">
   <a href="mailto:bayun.novaldi@gmail.com" >
