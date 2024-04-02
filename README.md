@@ -7,14 +7,16 @@
   <img align="center" alt="Bayu Novaldi | Gmail" height="300px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Animation.gif" />  
 <p> 
   
-- 🎓 I'm fresh graduate from Informatics Major at Institute Technology Sepuluh Nopember  
+- 🎓 I'm graduate from Informatics Major at Institute Technology Sepuluh Nopember  
 - 🌱 I’m currently focus on Android Development as primary focus, and Web Development 
-- 💬 Ask me about Kotlin, Java and PHP
+- 💬 Ask me about Kotlin, Java, C# and PHP
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> Some Languages and Tools
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-3498db?bstyle=flat&logo=Kotlin)&nbsp;
-![Java](https://img.shields.io/badge/-Java-3498db?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C#](https://img.shields.io/badge/C%23-3498db.svg?style=flat&logo=csharp&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/-Java-3498db?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
+![.Net](https://img.shields.io/badge/.NET-3498db?style=flat&logo=.net&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-3498db?style=flat&logo=PHP&logoColor=474A8A)&nbsp;
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-3498db?bstyle=flat&logo=CodeIgniter)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-3498db?bstyle=flat&logo=Laravel)&nbsp;
